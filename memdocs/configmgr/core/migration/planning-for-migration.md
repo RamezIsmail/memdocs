@@ -19,7 +19,7 @@ ms.reviewer: mstewart,aaroncz
 
 Before you migrate data to a Configuration Manager current branch destination hierarchy, make sure that you are familiar with sites and hierarchies in Configuration Manager. For more about sites and hierarchies, see [Fundamentals of Configuration Manager](../../core/understand/fundamentals.md).  
 
-Install a Configuration Manager current branch hierarchy to be the destination hierarchy before you migrate data from a supported source hierarchy.  
+Install a Configuration Manager current branch hierarchy to be the destination hierarchy before you migrate data from a supported source hierarchy, make sure that the destination hierarchy is installed with a unique set of site codes different than the source hierarchy.
 
 After you install the destination hierarchy, set up the management features and functions that you want to use in your destination hierarchy before you start to migrate data.  
 
